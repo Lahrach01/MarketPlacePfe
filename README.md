@@ -26,7 +26,7 @@ Dedicated Software Engineer with a strong background in Computer Science and Net
 
 ## 💼 Professional Experience
 
-### **Software Engineer Intern – SQLI**
+### **Software Engineer Intern – Chronotech**
 - Designed and developed backend microservices using Java and Spring Boot
 - Contributed to a CIAM platform project (SAP Customer Data Cloud)
 - Implemented RESTful APIs following clean code principles and SOLID design patterns
@@ -40,7 +40,7 @@ Dedicated Software Engineer with a strong background in Computer Science and Net
 - Participated in code reviews and Agile ceremonies
 - Implemented unit and integration tests for quality assurance
 
-### **Software Engineer Intern – HPS**
+### **Software Engineer Intern – Cour de Cassation**
 - Analyzed and studied ISO8583 financial messaging protocol
 - Developed a Java-based simulator for ISO8583 transaction messages
 - Gained hands-on experience with financial systems and protocols
