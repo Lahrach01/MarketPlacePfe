@@ -29,7 +29,7 @@ Dedicated Software Engineer with a strong background in Computer Science and Net
 ### **Software Engineer Intern – Chronotech**
 *Stage de Fin d'Études (Mars – Septembre 2025)*
 - Participated actively in developing a marketplace platform enabling communication between sellers and buyers
-- Implemented a microservices architecture based on Spring Boot, React, and PostgreSQL
+- Implemented a microservices architecture based on Spring Boot, Angular, and PostgreSQL
 - Contributed to the design and integration of main modules: authentication, listing management, file upload, and notifications
 - Analyzed security and code quality using Snyk, npm audit, and ESLint to ensure platform reliability and compliance
 - Gained experience in full-stack development and modern web technologies
@@ -84,10 +84,10 @@ Dedicated Software Engineer with a strong background in Computer Science and Net
 ## 📂 Key Projects
 
 ### **Chronotech Marketplace Platform**
-*Spring Boot | React | PostgreSQL | Microservices*
+*Spring Boot | Angular | PostgreSQL | Microservices*
 - Full-stack marketplace platform connecting sellers and buyers
 - Microservices architecture with Spring Boot backend
-- React-based responsive frontend interface
+- Angular-based responsive frontend interface
 - Core modules: User authentication, listing management, file upload, real-time notifications
 - Security analysis with Snyk and code quality tools
 - Scalable and production-ready solution
