@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**🚀 Full-Stack Developer | Java / Spring Boot | Angular | Laravel**
+**🚀 Full-Stack Developer | Java / Spring Boot | Angular | React | Laravel**
 
 *Building scalable and robust software solutions with passion for clean code and best practices*
 
