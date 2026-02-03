@@ -27,23 +27,26 @@ Dedicated Software Engineer with a strong background in Computer Science and Net
 ## 💼 Professional Experience
 
 ### **Software Engineer Intern – Chronotech**
-- Designed and developed backend microservices using Java and Spring Boot
-- Contributed to a CIAM platform project (SAP Customer Data Cloud)
-- Implemented RESTful APIs following clean code principles and SOLID design patterns
-- Set up application monitoring and observability using Prometheus & Grafana
-- Worked in an Agile/Scrum environment with version control (Git)
-
+*Stage de Fin d'Études (Mars – Septembre 2025)*
+- Participated actively in developing a marketplace platform enabling communication between sellers and buyers
+- Implemented a microservices architecture based on Spring Boot, React, and PostgreSQL
+- Contributed to the design and integration of main modules: authentication, listing management, file upload, and notifications
+- Analyzed security and code quality using Snyk, npm audit, and ESLint to ensure platform reliability and compliance
+- Gained experience in full-stack development and modern web technologies
 ### **Software Engineer Intern – Infomaker**
-- Developed full-stack web applications using Spring Boot (backend) and Angular (frontend)
-- Built secure CRUD operations with role-based access control
-- Designed and optimized relational database schemas (PostgreSQL/MySQL)
-- Participated in code reviews and Agile ceremonies
+*Internship (2 months)*
+- Developed a sales and billing application with ReactJS (front-end) and Spring Boot (back-end)
+- Participated in feature design and optimization of business processes
+- Reinforced full-stack development skills and modern web technologies
+- Worked on complete CRUD operations and database integration
 - Implemented unit and integration tests for quality assurance
 
 ### **Software Engineer Intern – Cour de Cassation**
-- Analyzed and studied ISO8583 financial messaging protocol
-- Developed a Java-based simulator for ISO8583 transaction messages
-- Gained hands-on experience with financial systems and protocols
+*Internship (5 weeks)*
+- Developed an application for recording employee arrival and departure times
+- Analyzed functional requirements and participated in solution design with the team
+- Contributed to application development and initiation in project management basics
+- Gained practical experience in software development lifecycle
 
 ---
 
@@ -80,26 +83,27 @@ Dedicated Software Engineer with a strong background in Computer Science and Net
 
 ## 📂 Key Projects
 
-### **Client Management Application**
-*Spring Boot | PostgreSQL | Angular*
-- Developed a complete client management system with secure authentication
-- Implemented role-based access control (RBAC)
-- Built RESTful APIs with comprehensive error handling
-- Deployed with Docker containerization
+### **Chronotech Marketplace Platform**
+*Spring Boot | React | PostgreSQL | Microservices*
+- Full-stack marketplace platform connecting sellers and buyers
+- Microservices architecture with Spring Boot backend
+- React-based responsive frontend interface
+- Core modules: User authentication, listing management, file upload, real-time notifications
+- Security analysis with Snyk and code quality tools
+- Scalable and production-ready solution
 
-### **Sales & Billing Platform**
-*Spring Boot | Angular | MySQL*
+### **Sales & Billing Application**
+*Spring Boot | ReactJS | MySQL*
 - Full-stack e-commerce application for product and transaction management
 - Implemented shopping cart and billing functionality
 - Integrated payment processing and order management
 - Real-time data synchronization between frontend and backend
 
-### **MarketPlace Application**
-*Laravel | Vue.js/Angular | PostgreSQL*
-- E-commerce and marketplace solution
-- Multi-vendor support with admin dashboard
-- Advanced search and filtering capabilities
-- Secure payment gateway integration
+### **Employee Time Tracking System**
+*Java | Database*
+- Application for recording employee arrival and departure times
+- Functional requirement analysis and solution design
+- Project management implementation
 
 ---
 
